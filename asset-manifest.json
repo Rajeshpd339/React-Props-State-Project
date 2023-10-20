@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React-Props-State-Project/static/css/main.e6c13ad2.css",
-    "main.js": "/React-Props-State-Project/static/js/main.82e69e9b.js",
+    "main.js": "/React-Props-State-Project/static/js/main.b6e66274.js",
     "static/js/787.6df0c601.chunk.js": "/React-Props-State-Project/static/js/787.6df0c601.chunk.js",
     "index.html": "/React-Props-State-Project/index.html",
     "main.e6c13ad2.css.map": "/React-Props-State-Project/static/css/main.e6c13ad2.css.map",
-    "main.82e69e9b.js.map": "/React-Props-State-Project/static/js/main.82e69e9b.js.map",
+    "main.b6e66274.js.map": "/React-Props-State-Project/static/js/main.b6e66274.js.map",
     "787.6df0c601.chunk.js.map": "/React-Props-State-Project/static/js/787.6df0c601.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.82e69e9b.js"
+    "static/js/main.b6e66274.js"
   ]
 }
